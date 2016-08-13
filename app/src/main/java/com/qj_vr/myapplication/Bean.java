@@ -10,5 +10,6 @@ package com.qj_vr.myapplication;
  * @updateDes ${TODO}
  */
 public class Bean  {
-
+    int age;
+    String name;
 }
